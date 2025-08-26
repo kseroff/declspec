@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека C:\Users\Kseroff\source\repos\doroshenko_dll\Debug\dllmain.lib и объект C:\Users\Kseroff\source\repos\doroshenko_dll\Debug\dllmain.exp
+  dllmain.vcxproj -> C:\Users\Kseroff\source\repos\doroshenko_dll\Debug\dllmain.dll
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека C:\Users\Kseroff\source\repos\doroshenko_dll\Release\dllmain.lib и объект C:\Users\Kseroff\source\repos\doroshenko_dll\Release\dllmain.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 39 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  dllmain.vcxproj -> C:\Users\Kseroff\source\repos\doroshenko_dll\Release\dllmain.dll
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

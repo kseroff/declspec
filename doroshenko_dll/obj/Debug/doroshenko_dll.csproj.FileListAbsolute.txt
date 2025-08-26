@@ -1,0 +1,10 @@
+C:\Users\Kseroff\source\repos\doroshenko_dll\doroshenko_dll\bin\Debug\doroshenko_dll.exe.config
+C:\Users\Kseroff\source\repos\doroshenko_dll\doroshenko_dll\bin\Debug\doroshenko_dll.exe
+C:\Users\Kseroff\source\repos\doroshenko_dll\doroshenko_dll\bin\Debug\doroshenko_dll.pdb
+C:\Users\Kseroff\source\repos\doroshenko_dll\doroshenko_dll\obj\Debug\doroshenko_dll.csproj.AssemblyReference.cache
+C:\Users\Kseroff\source\repos\doroshenko_dll\doroshenko_dll\obj\Debug\doroshenko_dll.csproj.CoreCompileInputs.cache
+C:\Users\Kseroff\source\repos\doroshenko_dll\doroshenko_dll\obj\Debug\doroshenko_dll.exe
+C:\Users\Kseroff\source\repos\doroshenko_dll\doroshenko_dll\obj\Debug\doroshenko_dll.pdb
+C:\Users\Kseroff\source\repos\doroshenko_dll\Debug\doroshenko_dll.exe.config
+C:\Users\Kseroff\source\repos\doroshenko_dll\Debug\doroshenko_dll.exe
+C:\Users\Kseroff\source\repos\doroshenko_dll\Debug\doroshenko_dll.pdb
